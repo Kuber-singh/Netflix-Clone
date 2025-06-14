@@ -13,7 +13,7 @@ NETFLEX CLONE (HTML AND CSS)
  Installation :
  1. Clone the repository to your local machine:
  git clone 
-https://github.com/Kuber-Singh/Netflix-Clone.git
+https://github.com/Kuber-singh/Netflix-Clone.git
  2.Navigate to the project directory:
  cd Netflix-Clone
  3.Open the index.html file in your web browser.
